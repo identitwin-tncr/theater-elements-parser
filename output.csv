@@ -1,0 +1,100 @@
+,Bloque C (2BC),Unnamed: 12,Clases de estructuras tecnológicas.1,Unnamed: 14,Unidades tecnológicas.1,Categoría/Clases de elementos técnicos.1,Código.1,Unnamed: 18,Material.1,Referencia para numeración.1
+0,,1.0,Estructura primaria,1.2,Estructuras verticales,Muros ,1-2BC_Ev_Mu,1-2BC_Ev_Mu_S,,Agujas del reloj
+1,,1.0,Estructura primaria,1.2,Estructuras verticales,Muros ,1-2BC_Ev_Mu,1-2BC_Ev_Mu_E,,Agujas del reloj
+2,,1.0,Estructura primaria,1.2,Estructuras verticales,Muros ,1-2BC_Ev_Mu,1-2BC_Ev_Mu_O,,Agujas del reloj
+3,,1.0,Estructura primaria,1.3,Estructuras horizontales,Vigas Transversales,2BC_Eh_ViT,2BC_Eh_ViT1,,Este-Oeste
+4,,1.0,Estructura primaria,1.3,Estructuras horizontales,Vigas Transversales,2BC_Eh_ViT,2BC_Eh_ViT2,,Este-Oeste
+5,,1.0,Estructura primaria,1.3,Estructuras horizontales,Vigas Transversales,2BC_Eh_ViT,2BC_Eh_ViT3,,Este-Oeste
+6,,1.0,Estructura primaria,1.3,Estructuras horizontales,Vigas Transversales,2BC_Eh_ViT,2BC_Eh_ViT4,,Este-Oeste
+7,,1.0,Estructura primaria,1.3,Estructuras horizontales,Vigas Transversales,2BC_Eh_ViT,2BC_Eh_ViT5,,Este-Oeste
+8,,1.0,Estructura primaria,1.3,Estructuras horizontales,Vigas Transversales,2BC_Eh_ViT,2BC_Eh_ViT6,,Este-Oeste
+9,,1.0,Estructura primaria,1.3,Estructuras horizontales,Vigas Longitudinales,2BC_Eh_ViL,2BC_Eh_ViL1,,Izquierda-Derecha
+10,,1.0,Estructura primaria,1.3,Estructuras horizontales,Vigas Longitudinales,2BC_Eh_ViL,2BC_Eh_ViL2,,Izquierda-Derecha
+11,,1.0,Estructura primaria,1.3,Estructuras horizontales,Vigas compuestas,2BC_Eh_ViC,2BC_Eh_ViC1_S,,Agujas del reloj
+12,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Metal,2BC_Eh_VgMe,2BC_Eh_VgMe1,,Izquierda-Derecha
+13,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Metal,2BC_Eh_VgMe,2BC_Eh_VgMe2,,Izquierda-Derecha
+14,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Metal,2BC_Eh_VgMe,2BC_Eh_VgMe3,,Izquierda-Derecha
+15,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Metal,2BC_Eh_VgMe,2BC_Eh_VgMe4,,Izquierda-Derecha
+16,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Metal,2BC_Eh_VgMe,2BC_Eh_VgMe5,,Izquierda-Derecha
+17,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Metal,2BC_Eh_VgMe,2BC_Eh_VgMe6,,Izquierda-Derecha
+18,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Metal,2BC_Eh_VgMe,2BC_Eh_VgMe7,,Izquierda-Derecha
+19,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Metal,2BC_Eh_VgMe,2BC_Eh_VgMe8,,Izquierda-Derecha
+20,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Metal,2BC_Eh_VgMe,2BC_Eh_VgMe9,,Izquierda-Derecha
+21,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Metal,2BC_Eh_VgMe,2BC_Eh_VgMe10,,Izquierda-Derecha
+22,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Madera,2BC_Eh_VgMa,2BC_Eh_VgMa1,,Izquierda-Derecha
+23,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Madera,2BC_Eh_VgMa,2BC_Eh_VgMa2,,Izquierda-Derecha
+24,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Madera,2BC_Eh_VgMa,2BC_Eh_VgMa3,,Izquierda-Derecha
+25,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Madera,2BC_Eh_VgMa,2BC_Eh_VgMa4,,Izquierda-Derecha
+26,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Madera,2BC_Eh_VgMa,2BC_Eh_VgMa5,,Izquierda-Derecha
+27,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Madera,2BC_Eh_VgMa,2BC_Eh_VgMa6,,Izquierda-Derecha
+28,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Madera,2BC_Eh_VgMa,2BC_Eh_VgMa7,,Izquierda-Derecha
+29,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Madera,2BC_Eh_VgMa,2BC_Eh_VgMa8,,Izquierda-Derecha
+30,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Madera,2BC_Eh_VgMa,2BC_Eh_VgMa9,,Izquierda-Derecha
+31,,1.0,Estructura primaria,1.3,Estructuras horizontales,Viguetas de Madera,2BC_Eh_VgMa,2BC_Eh_VgMa10,,Izquierda-Derecha
+32,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Paños de pared,2BC_Cv_PaP,2BC_Cv_PaP1_E,,Izquierda-Derecha
+33,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Paños de pared,2BC_Cv_PaP,2BC_Cv_PaP2_E,,Izquierda-Derecha
+34,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Paños de pared,2BC_Cv_PaP,2BC_Cv_PaP3_E,,Izquierda-Derecha
+35,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Paños de pared,2BC_Cv_PaP,2BC_Cv_PaP1_S,,Izquierda-Derecha
+36,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Paños de pared,2BC_Cv_PaP,2BC_Cv_PaP2_S,,Izquierda-Derecha
+37,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Paños de pared,2BC_Cv_PaP,2BC_Cv_PaP3_S,,Izquierda-Derecha
+38,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Paños de pared,2BC_Cv_PaP,2BC_Cv_PaP4_S,,Izquierda-Derecha
+39,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Paños de pared,2BC_Cv_PaP,2BC_Cv_PaP1_O,,Izquierda-Derecha
+40,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Paños de pared,2BC_Cv_PaP,2BC_Cv_PaP2_O,,Izquierda-Derecha
+41,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Paños de pared,2BC_Cv_PaP,2BC_Cv_PaP3_O,,Izquierda-Derecha
+42,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Paños de pared,2BC_Cv_PaP,2BC_Cv_PaP4_O,,Izquierda-Derecha
+43,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Zócalo,2BC_Cv_Zo,2BC_Cv_Zo_S,,Puntos cardinales
+44,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Zócalo,2BC_Cv_Zo,2BC_Cv_Zo_E,,Puntos cardinales
+45,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Zócalo,2BC_Cv_Zo,2BC_Cv_Zo_O,,Puntos cardinales
+46,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Friso,2BC_Cv_Fr,2BC_Cv_Fr_S,,Puntos cardinales
+47,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Friso,2BC_Cv_Fr,2BC_Cv_Fr_E,,Puntos cardinales
+48,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Friso,2BC_Cv_Fr,2BC_Cv_Fr_O,,Puntos cardinales
+49,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Ventanas,2BC_Cv_Ve,2BC_Cv_Ve1_S,,"Puntos cardinales 
+Izquierda-Derecha "
+50,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Ventanas,2BC_Cv_Ve,2BC_Cv_Ve2_S,,"Puntos cardinales 
+Izquierda-Derecha "
+51,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Ventanas,2BC_Cv_Ve,2BC_Cv_Ve2_S,,"Puntos cardinales 
+Izquierda-Derecha "
+52,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Ventanas,2BC_Cv_Ve,2BC_Cv_Ve1_O,,"Puntos cardinales 
+Izquierda-Derecha "
+53,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Ventanas,2BC_Cv_Ve,2BC_Cv_Ve2_O,,"Puntos cardinales 
+Izquierda-Derecha "
+54,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Ventanas,2BC_Cv_Ve,2BC_Cv_Ve3_O,,"Puntos cardinales 
+Izquierda-Derecha "
+55,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Puertas,2BC_Cv_Pu,2BC_Cv_Pu1_E,,"Puntos cardinales 
+Izquierda-Derecha "
+56,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Puertas,2BC_Cv_Pu,2BC_Cv_Pu2_E,,"Puntos cardinales 
+Izquierda-Derecha "
+57,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Pilastras,2BC_Cv_Pi,2BC_Cv_Pi_E,,Puntos cardinales 
+58,,2.0,Cerramientos perimetrales,2.1,Cerramientos verticales,Pilastras,2BC_Cv_Pi,2BC_Cv_Pi_O,,Puntos cardinales 
+59,,2.0,Cerramientos perimetrales,2.2,Cerramientos horizontales,Soporte de parquet,2BC_Ch_SoP,2BC_Ch_SoP,,Puntos cardinales 
+60,,2.0,Cerramientos perimetrales,2.2,Cerramientos horizontales,Parquet,2BC_Ch_Pa,2BC_Ch_Pa,,Puntos cardinales 
+61,,2.0,Cerramientos perimetrales,2.2,Cerramientos horizontales,Alfombra,2BC_Ch_Al,2BC_Ch_Al,,Puntos cardinales 
+62,,2.0,Cerramientos perimetrales,2.2,Cerramientos horizontales,Rodapié,2BC_Ch_Ro,2BC_Ch_Ro_S,,Puntos cardinales
+63,,2.0,Cerramientos perimetrales,2.2,Cerramientos horizontales,Rodapié,2BC_Ch_Ro,2BC_Ch_Ro_E,,Puntos cardinales
+64,,2.0,Cerramientos perimetrales,2.2,Cerramientos horizontales,Rodapié,2BC_Ch_Ro,2BC_Ch_Ro_O,,Puntos cardinales
+65,,2.0,Cerramientos perimetrales,2.2,Cerramientos horizontales,Guarnición,2BC_Ch_Gu,2BC_Ch_Gu_S,,Puntos cardinales
+66,,2.0,Cerramientos perimetrales,2.2,Cerramientos horizontales,Guarnición,2BC_Ch_Gu,2BC_Ch_Gu_E,,Puntos cardinales
+67,,2.0,Cerramientos perimetrales,2.2,Cerramientos horizontales,Guarnición,2BC_Ch_Gu,2BC_Ch_Gu_O,,Puntos cardinales
+68,,2.0,Cerramientos perimetrales,2.2,Cerramientos horizontales,Cornisa,2BC_Ch_Co,2BC_Ch_Co_N,,Puntos cardinales
+69,,2.0,Cerramientos perimetrales,2.2,Cerramientos horizontales,Cornisa,2BC_Ch_Co,2BC_Ch_Co_S,,Puntos cardinales
+70,,2.0,Cerramientos perimetrales,2.2,Cerramientos horizontales,Cornisa,2BC_Ch_Co,2BC_Ch_Co_E,,Puntos cardinales
+71,,2.0,Cerramientos perimetrales,2.2,Cerramientos horizontales,Cornisa,2BC_Ch_Co,2BC_Ch_Co_O,,Puntos cardinales
+72,,2.0,Cerramientos perimetrales,2.4,Cerramiento superior,Cubierta,2BC_Cs_Cu,2BC_Cs_Cu_S,,Puntos cardinales
+73,,2.0,Cerramientos perimetrales,2.4,Cerramiento superior,Cubierta,2BC_Cs_Cu,2BC_Cs_Cu_O,,Puntos cardinales
+74,,2.0,Cerramientos perimetrales,2.4,Cerramiento superior,Cielo raso,2BC_Cs_Cr,2BC_Cs_Cr,,Puntos cardinales
+75,,2.0,Cerramientos perimetrales,2.4,Cerramiento superior,Cerchas,2BC_Cs_Ce,2BC_Cs_Ce1,,Este-Oeste
+76,,2.0,Cerramientos perimetrales,2.4,Cerramiento superior,Cerchas,2BC_Cs_Ce,2BC_Cs_Ce2,,Este-Oeste
+77,,2.0,Cerramientos perimetrales,2.4,Cerramiento superior,Cerchas,2BC_Cs_Ce,2BC_Cs_Ce3,,Este-Oeste
+78,,2.0,Cerramientos perimetrales,2.4,Cerramiento superior,Cerchas,2BC_Cs_Ce,2BC_Cs_Ce4,,Este-Oeste
+79,,2.0,Cerramientos perimetrales,2.4,Cerramiento superior,Cerchas,2BC_Cs_Ce,2BC_Cs_Ce5,,Este-Oeste
+80,,2.0,Cerramientos perimetrales,2.4,Cerramiento superior,Vigas,2BC_Cs_Vi,2BC_Cs_Vi_S,,Puntos cardinales
+81,,2.0,Cerramientos perimetrales,2.4,Cerramiento superior,Vigas de amarre horizontal,2BC_Cs_ViAH,2BC_Cs_ViAH_S,,Puntos cardinales
+82,,2.0,Cerramientos perimetrales,2.4,Cerramiento superior,Vigas de amarre horizontal,2BC_Cs_ViAH,2BC_Cs_ViAH_O,,Puntos cardinales
+83,,2.0,Cerramientos perimetrales,2.4,Cerramiento superior,Vigas de amarre inclinada,2BC_Cs_ViAI,2BC_Cs_ViAI_S,,Puntos cardinales
+84,,2.0,Cerramientos perimetrales,2.4,Cerramiento superior,Vigas de amarre inclinada,2BC_Cs_ViAI,2BC_Cs_ViAI_S,,Puntos cardinales
+85,,2.0,Cerramientos perimetrales,2.4,Cerramiento superior,Vigas compuestas,2BC_Cs_ViC,2BC_Cs_ViC_S,,Puntos cardinales
+86,,2.0,Cerramientos perimetrales,2.4,Cerramiento superior,Vigas compuestas,2BC_Cs_ViC,2BC_Cs_ViC_O,,Puntos cardinales
+87,,3.0,Divisiones internas,3.1,División interna vertical,Columnas,2BC_Div_Co,2BC_Div_Co_E,,Puntos cardinales
+88,,3.0,Divisiones internas,3.1,División interna vertical,Columnas,2BC_Div_Co,2BC_Div_Co_O,,Puntos cardinales
+89,,4.0,Equipo interno,4.1,Bloque de servicios,Datalogger Iluminación,2BC_Bs_DaI,2BC_Bs_DaI,,Puntos cardinales
+90,,4.0,Equipo interno,4.1,Bloque de servicios,Datalogger Ambiental,2BC_Bs_DaA,2BC_Bs_DaA,,Puntos cardinales

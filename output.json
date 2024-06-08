@@ -1,0 +1,873 @@
+[
+    {
+        "name": "muros",
+        "code": "1-2_BA_EV_MU_N",
+        "technicalUnitCode": "Ev",
+        "location": {
+            "floor": "1",
+            "block": "2",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "muros",
+        "code": "1-2BA_EV_MU_E",
+        "technicalUnitCode": "Ev",
+        "location": {
+            "floor": "1",
+            "block": "A",
+            "cardinalPoint": "E"
+        }
+    },
+    {
+        "name": "muros",
+        "code": "1-2BA_EV_MU_O",
+        "technicalUnitCode": "Ev",
+        "location": {
+            "floor": "1",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "vigas transversales",
+        "code": "2BA_EH_VIT1",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "vigas transversales",
+        "code": "2BA_EH_VIT2",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "vigas transversales",
+        "code": "2BA_EH_VIT3",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "vigas transversales",
+        "code": "2BA_EH_VIT4",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "vigas transversales",
+        "code": "2BA_EH_VIT5",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "vigas transversales",
+        "code": "2BA_EH_VIT6",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "vigas longitudinales",
+        "code": "2BA_EH_VIL1",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "vigas longitudinales",
+        "code": "2BA_EH_VIL2",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "vigas compuestas",
+        "code": "2BA_EH_VIC1_N",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "viguetas de metal",
+        "code": "2BA_EH_VGME1",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de metal",
+        "code": "2BA_EH_VGME2",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de metal",
+        "code": "2BA_EH_VGME3",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de metal",
+        "code": "2BA_EH_VGME4",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de metal",
+        "code": "2BA_EH_VGME5",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de metal",
+        "code": "2BA_EH_VGME6",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de metal",
+        "code": "2BA_EH_VGME7",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de metal",
+        "code": "2BA_EH_VGME8",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de metal",
+        "code": "2BA_EH_VGME9",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de metal",
+        "code": "2BA_EH_VGME10",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de madera",
+        "code": "2BA_EH_VGMA1",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de madera",
+        "code": "2BA_EH_VGMA2",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de madera",
+        "code": "2BA_EH_VGMA3",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de madera",
+        "code": "2BA_EH_VGMA4",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de madera",
+        "code": "2BA_EH_VGMA5",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de madera",
+        "code": "2BA_EH_VGMA6",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de madera",
+        "code": "2BA_EH_VGMA7",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de madera",
+        "code": "2BA_EH_VGMA8",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de madera",
+        "code": "2BA_EH_VGMA9",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "viguetas de madera",
+        "code": "2BA_EH_VGMA10",
+        "technicalUnitCode": "Eh",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "panos de pared",
+        "code": "2BA_CV_PAP1_E",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "E"
+        }
+    },
+    {
+        "name": "panos de pared",
+        "code": "2BA_CV_PAP2_E",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "E"
+        }
+    },
+    {
+        "name": "panos de pared",
+        "code": "2BA_CV_PAP3_E",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "E"
+        }
+    },
+    {
+        "name": "panos de pared",
+        "code": "2BA_CV_PAP1_N",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "panos de pared",
+        "code": "2BA_CV_PAP2_N",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "panos de pared",
+        "code": "2BA_CV_PAP3_N",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "panos de pared",
+        "code": "2BA_CV_PAP4_N",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "panos de pared",
+        "code": "2BA_CV_PAP1_O",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "panos de pared",
+        "code": "2BA_CV_PAP2_O",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "panos de pared",
+        "code": "2BA_CV_PAP3_O",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "panos de pared",
+        "code": "2BA_CV_PAP4_O",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "zocalo",
+        "code": "2BA_CV_ZO_N",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "zocalo",
+        "code": "2BA_CV_ZO_E",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "E"
+        }
+    },
+    {
+        "name": "zocalo",
+        "code": "2BA_CV_ZO_O",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "friso",
+        "code": "2BA_CV_FR_N",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "friso",
+        "code": "2BA_CV_FR_E",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "E"
+        }
+    },
+    {
+        "name": "friso",
+        "code": "2BA_CV_FR_O",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "ventanas",
+        "code": "2BA_CV_VE1_N",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "ventanas",
+        "code": "2BA_CV_VE2_N",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "ventanas",
+        "code": "2BA_CV_VE3_N",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "ventanas",
+        "code": "2BA_CV_VE1_O",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "ventanas",
+        "code": "2BA_CV_VE2_O",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "ventanas",
+        "code": "2BA_CV_VE3_O",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "puertas",
+        "code": "2BA_CV_PU1_E",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "E"
+        }
+    },
+    {
+        "name": "puertas",
+        "code": "2BA_CV_PU2_E",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "E"
+        }
+    },
+    {
+        "name": "pilastras",
+        "code": "2BA_CV_PI_E",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "E"
+        }
+    },
+    {
+        "name": "pilastras",
+        "code": "2BA_CV_PI_O",
+        "technicalUnitCode": "Cv",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "soporte de parquet",
+        "code": "2BA_CH_SOP",
+        "technicalUnitCode": "Ch",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "parquet",
+        "code": "2BA_CH_PA",
+        "technicalUnitCode": "Ch",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "alfombra",
+        "code": "2BA_CH_AL",
+        "technicalUnitCode": "Ch",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "rodapie",
+        "code": "2BA_CH_RO_N",
+        "technicalUnitCode": "Ch",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "rodapie",
+        "code": "2BA_CH_RO_E",
+        "technicalUnitCode": "Ch",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "E"
+        }
+    },
+    {
+        "name": "rodapie",
+        "code": "2BA_CH_RO_O",
+        "technicalUnitCode": "Ch",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "guarnicion",
+        "code": "2BA_CH_GU_N",
+        "technicalUnitCode": "Ch",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "guarnicion",
+        "code": "2BA_CH_GU_E",
+        "technicalUnitCode": "Ch",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "E"
+        }
+    },
+    {
+        "name": "guarnicion",
+        "code": "2BA_CH_GU_O",
+        "technicalUnitCode": "Ch",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "cornisa",
+        "code": "2BA_CH_CO_N",
+        "technicalUnitCode": "Ch",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "cornisa",
+        "code": "2BA_CH_CO_S",
+        "technicalUnitCode": "Ch",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "S"
+        }
+    },
+    {
+        "name": "cornisa",
+        "code": "2BA_CH_CO_E",
+        "technicalUnitCode": "Ch",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "E"
+        }
+    },
+    {
+        "name": "cornisa",
+        "code": "2BA_CH_CO_O",
+        "technicalUnitCode": "Ch",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "cubierta",
+        "code": "2BA_CS_CU_N",
+        "technicalUnitCode": "Cs",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "cubierta",
+        "code": "2BA_CS_CU_O",
+        "technicalUnitCode": "Cs",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "cielo raso",
+        "code": "2BA_CS_CIR",
+        "technicalUnitCode": "Cs",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "cerchas",
+        "code": "2BA_CS_CE1",
+        "technicalUnitCode": "Cs",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "cerchas",
+        "code": "2BA_CS_CE2",
+        "technicalUnitCode": "Cs",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "cerchas",
+        "code": "2BA_CS_CE3",
+        "technicalUnitCode": "Cs",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "cerchas",
+        "code": "2BA_CS_CE4",
+        "technicalUnitCode": "Cs",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "cerchas",
+        "code": "2BA_CS_CE5",
+        "technicalUnitCode": "Cs",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "vigas",
+        "code": "2BA_CS_VI_S",
+        "technicalUnitCode": "Cs",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "S"
+        }
+    },
+    {
+        "name": "vigas de amarre horizontal",
+        "code": "2BA_CS_VIAH_N",
+        "technicalUnitCode": "Cs",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "vigas de amarre horizontal",
+        "code": "2BA_CS_VIAH_O",
+        "technicalUnitCode": "Cs",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "vigas de amarre inclinada",
+        "code": "2BA_CS_VIAI_N",
+        "technicalUnitCode": "Cs",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "vigas de amarre inclinada",
+        "code": "2BA_CS_VIAI_S",
+        "technicalUnitCode": "Cs",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "S"
+        }
+    },
+    {
+        "name": "vigas compuestas",
+        "code": "2BA_CS_VIC_N",
+        "technicalUnitCode": "Cs",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "N"
+        }
+    },
+    {
+        "name": "vigas compuestas",
+        "code": "2BA_CS_VIC_O",
+        "technicalUnitCode": "Cs",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "columnas",
+        "code": "2BA_DIV_CO_E",
+        "technicalUnitCode": "Div",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "E"
+        }
+    },
+    {
+        "name": "columnas",
+        "code": "2BA_DIV_CO_O",
+        "technicalUnitCode": "Div",
+        "location": {
+            "floor": "2",
+            "block": "A",
+            "cardinalPoint": "O"
+        }
+    },
+    {
+        "name": "datalogger iluminacion",
+        "code": "2BA_BS_DAI",
+        "technicalUnitCode": "Bs",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    },
+    {
+        "name": "datalogger ambiental",
+        "code": "2BA_BS_DAA",
+        "technicalUnitCode": "Bs",
+        "location": {
+            "floor": "2",
+            "block": "A"
+        }
+    }
+]
